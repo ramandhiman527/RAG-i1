@@ -1,0 +1,46 @@
+Query 1:
+
+Original: "When was the defect in System 2 reported?"
+Expanded: "When was the defect in System 2 reported? When did the defect in System 2 occur? On which day was the defect in System 2 noticed?"
+Query 2:
+
+Original: "Who repaired the issue in System 3 on 15/02/2024?"
+Expanded: "Who repaired the issue in System 3 on 15/02/2024? Who fixed the problem in System 3 on 15/02/2024? Who was responsible for resolving the issue in System 3 on 15/02/2024?"
+Query 3:
+
+Original: "What parts were used to fix the defect in System 1 on 05/01/2024?"
+Expanded: "What parts were used to fix the defect in System 1 on 05/01/2024? Which spare parts were required to fix the issue in System 1 on 05/01/2024? List the parts used in the defect resolution in System 1 on 05/01/2024."
+Query 4:
+
+Original: "What was the cause of the malfunction in System 4 on 10/03/2024?"
+Expanded: "What was the cause of the malfunction in System 4 on 10/03/2024? What led to the defect in System 4 on 10/03/2024? What was the reason behind the issue in System 4 on 10/03/2024?"
+Query 5:
+
+Original: "Who is the supervisor of the repair unit that handled the defect in System 5 on 20/02/2024?"
+Expanded: "Who is the supervisor of the repair unit that handled the defect in System 5 on 20/02/2024? Who was the manager of the repair unit that resolved the issue in System 5 on 20/02/2024? Who was in charge of the repair unit that dealt with the defect in System 5 on 20/02/2024?"
+
+pip install -r requirements.txt
+
+
+
+Queries: 
+
+1. What was the defect on Radar system at INS Cheeta?
+
+2. What were the spares used to correct the defect on magnetron of Radar system of INS Bagh?
+
+3. When did the defect on INS Bagh on thier Radar System occur?
+
+4. How many days it took to correct the defect on the Magnetron of Radar System at INS Bagh?
+
+5. What was the defect of INS Bagh that they corrected?
+
+6. Who many days it took to correct the defect on Magnetron of Radar System at INS Bagh?
+
+7. What were the steps taken to resolve the magnetron defect of INS Bagh?
+
+8. Is the defect on INS Bagh still pending or is it resolved?
+
+9. What were the important correspondense related to the magnetron defect of INS Bagh?
+
+10. Which unit the key personal belong to whilst resolving the defect Magnetron of INS Bagh?

@@ -1,0 +1,6 @@
+pip install gradio
+pip install fitz
+pip install PyMuPDF
+pip install langchain-community
+pip install transformers
+pip install langchain-chroma
