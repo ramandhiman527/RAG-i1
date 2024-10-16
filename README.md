@@ -18,3 +18,8 @@
   Dynamic question-answering systems
   
 Cogniflow-i1 is perfect for organizations looking to leverage cutting-edge RAG systems for tasks like data analysis, report generation, and knowledge management. The project is modular, scalable, and designed with production-readiness in mind.
+### References (Research Papers)
+- [Expand, Rerank, and Retrieve: Query Reranking for Open-Domain Question Answering]([url](https://arxiv.org/pdf/2305.17080))
+- [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]([url](https://github.com/starsuzi/Adaptive-RAG))
+- [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, AND CRITIQUE THROUGH SELF-REFLECTION]([url](https://arxiv.org/pdf/2310.11511)) 
+
